@@ -1,7 +1,7 @@
 
 import React from "react";
 import { Link } from "react-router-dom";
-import products from "../constants/products";
+import products from "./products";
 
 const Home = () => {
   return (
