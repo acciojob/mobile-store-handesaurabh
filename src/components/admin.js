@@ -1,6 +1,6 @@
 
 import React from "react";
-import products from "../constants/products";
+import products from "./products";
 import { Link } from "react-router-dom";
 
 function Admin() {
